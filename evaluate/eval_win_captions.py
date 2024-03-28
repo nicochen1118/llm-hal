@@ -39,7 +39,7 @@ Answer: I will choose Option
 """
 
 
-openai.api_key = "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"
+openai.api_key = ""
 proxy = "http://127.0.0.1:7890"
 def anychat_gpt_4(messages: list):
     completion = openai.ChatCompletion.create(model="gpt-4", messages=messages)
