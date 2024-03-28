@@ -1,0 +1,100 @@
+COCO_train2014_000000000081.jpg ### 0 ### a large Air France airplane, a cloudy sky, clouds
+COCO_train2014_000000000110.jpg ### 0 ### a woman, a young girl, a dining table, a pizza, a knife, fork, people, multiple chairs, cups, [spoons], [a bottle]
+COCO_train2014_000000000144.jpg ### 0 ### a group of giraffes, a zoo enclosure, a feeding trough
+COCO_train2014_000000000149.jpg ### 0 ### a group of people, a grassy field, kite, the sky, [a bicycle]
+COCO_train2014_000000000165.jpg ### 0 ### a man, a woman, a red flag, a suit, tie, military fatigues, a pair of scissors
+COCO_train2014_000000000194.jpg ### 0 ### a delicious pizza, a dining table, green peppers, [broccoli]
+COCO_train2014_000000000332.jpg ### 0 ### a large bowl, a dining table, carrots, noodles, meat, vegetables
+COCO_train2014_000000000735.jpg ### 0 ### a woman, glasses, a large cake, a knife, a dining table, several bowls
+COCO_train2014_000000000762.jpg ### 0 ### furniture, two couches, A chair, a television, bottles, [a cup], [a bowl], [a vase], [A handbag]
+COCO_train2014_000000000790.jpg ### 0 ### a group of people, a dining table, plates, cups, forks, knives, spoons, a cake, chairs, A potted plant, wine glasses, A bowl
+COCO_train2014_000000000853.jpg ### 0 ### a dining table, two sandwiches, A bowl, chicken salad, a fork, [a cake]
+COCO_train2014_000000000925.jpg ### 0 ### a man, a suit, tie, a bench, a watch
+COCO_train2014_000000000934.jpg ### 0 ### two elephants, a house,  a few people, [a sanctuary], [a zoo]
+COCO_train2014_000000000941.jpg ### 0 ### a laptop computer, an open book, a blanket, [a bed], [two teddy bears]
+COCO_train2014_000000000965.jpg ### 0 ### a snowboarder, blue pants, the snow, the snowboard, other people, [a blue jacket]
+COCO_train2014_000000000984.jpg ### 0 ### a person, a banana, oranges
+COCO_train2014_000000001014.jpg ### 0 ### two men, a yellow shirt, tennis rackets, A backpack, sports balls
+COCO_train2014_000000001084.jpg ### 0 ### a wooden table, scissors, pliers, a knife, [A ruler]
+COCO_train2014_000000001107.jpg ### 0 ### a large propeller airplane, ceiling, a few people
+COCO_train2014_000000001213.jpg ### 0 ### a small bathroom, a toilet, a sink, a window
+COCO_train2014_000000001261.jpg ### 0 ### a dining table, a large bowl, a creamy dessert, fruit salad, a loaf of bread, pieces of fruit, [bananas], [apples], [oranges]
+COCO_train2014_000000001298.jpg ### 0 ### a man, the grass, a white shirt, A handbag, [a knife], [fork], [a sandwich]
+COCO_train2014_000000001306.jpg ### 0 ### a cozy living room, a flat screen TV, a dining table, chairs, a sink, a staircase, [a fireplace], [a refrigerator], [a potted plant]
+COCO_train2014_000000001386.jpg ### 0 ### a sandwich, french fries, a drink, The tray, a dining table
+COCO_train2014_000000001510.jpg ### 0 ### a white plate, broccoli, mushrooms, chicken
+COCO_train2014_000000001515.jpg ### 0 ### a smokestack, a large amount of black smoke, the sky, a bird
+COCO_train2014_000000001518.jpg ### 0 ### a toy broccoli, the dashboard, a car, the road, A traffic light
+COCO_train2014_000000001527.jpg ### 0 ### a man, a blue shirt, black shorts, a court, a tennis racket, a fence, [The tennis ball]
+COCO_train2014_000000001589.jpg ### 0 ### a brown and white dog, a frozen lake
+COCO_train2014_000000001596.jpg ### 0 ### a person, a tennis racket, a tennis ball
+COCO_train2014_000000001674.jpg ### 0 ### a pair of scissors, a piece of paper, a dining table, [a bottle]
+COCO_train2014_000000001774.jpg ### 0 ### a young man, a skateboard, a ramp, a black shirt, a white hat, [bowls]
+COCO_train2014_000000001786.jpg ### 0 ### a woven basket, the breads
+COCO_train2014_000000001804.jpg ### 0 ### two young women, a chocolate-covered doughnut, white shirts
+COCO_train2014_000000001813.jpg ### 0 ### a plate, a piece of cake, a bowl
+COCO_train2014_000000001912.jpg ### 0 ### a white bird, a shallow body of water
+COCO_train2014_000000001966.jpg ### 0 ### a tennis player, a tennis court, a tennis racket, a tennis ball, a green shirt, several other people, [multiple chairs], [a clock]
+COCO_train2014_000000002024.jpg ### 0 ### a bathroom, a sink, a mirror, a toilet paper roll
+COCO_train2014_000000002068.jpg ### 0 ### a delicious noodle, a generous amount of broccoli
+COCO_train2014_000000002197.jpg ### 0 ### a bathroom, two sinks, two mirrors, a toilet, [toothbrush holders], [two toothbrushes], [two cups]
+COCO_train2014_000000002276.jpg ### 0 ### a tall clock tower, The sky
+COCO_train2014_000000002280.jpg ### 0 ### a large commercial airplane, [two smaller airplanes]
+COCO_train2014_000000002445.jpg ### 0 ### a baseball player, a bat, a baseball glove, The catcher, The umpire
+COCO_train2014_000000002470.jpg ### 0 ### a snowboarder, a snow-covered slope, a brown jacket
+COCO_train2014_000000002543.jpg ### 0 ### a young boy, a young girl, a bed, a blanket, [a chair], [a clock]
+COCO_train2014_000000002614.jpg ### 0 ### a group of people, frisbee, a beach, several cars
+COCO_train2014_000000002619.jpg ### 0 ### a large brown bear, a waterfall
+COCO_train2014_000000002645.jpg ### 0 ### a delicious-looking sandwich, a dining table, meat, cheese, sauce, a piece of wax paper
+COCO_train2014_000000002658.jpg ### 0 ### a group of people, a basketball court, ties, [two sports balls]
+COCO_train2014_000000002691.jpg ### 0 ### a group of people, tables, chairs, laptops, Several books, two cups, A TV, [cell phones]
+COCO_train2014_000000002693.jpg ### 0 ### a group of people, a living room, a video game, a Wii remote, a couch, A TV, [a chair], [a few bottles]
+COCO_train2014_000000002732.jpg ### 0 ### a train, tracks, several people
+COCO_train2014_000000002754.jpg ### 0 ### a brown and white dog, window, a red SUV
+COCO_train2014_000000002755.jpg ### 0 ### a group of young boys, a dirt field, baseball uniforms, baseball gloves
+COCO_train2014_000000002770.jpg ### 0 ### a purple teddy bear, a green carpet
+COCO_train2014_000000002842.jpg ### 0 ### a tennis court, Two tennis players, a man, a woman, tennis rackets, a green shirt, chairs
+COCO_train2014_000000002896.jpg ### 0 ### three people, a giraffe, a pink bucket
+COCO_train2014_000000002951.jpg ### 0 ### a red stop sign, several cars, two people
+COCO_train2014_000000003000.jpg ### 0 ### a person, a Nintendo Wii game controller, a black shirt, jeans, a carpeted floor
+COCO_train2014_000000003077.jpg ### 0 ### a tennis team, 13 people, tennis rackets
+COCO_train2014_000000003080.jpg ### 0 ### a large clock, a building
+COCO_train2014_000000003219.jpg ### 0 ### a wooden table, a cell phone, a keyboard, a book, a bottle, [a laptop], [a pair of scissors]
+COCO_train2014_000000003220.jpg ### 0 ### a baseball stadium, a group of people, The mascot, spectators, chairs
+COCO_train2014_000000003389.jpg ### 0 ### two brown and black ducks, a wooden railing, two birds
+COCO_train2014_000000003464.jpg ### 0 ### a vase, flowers, a dining table, apples, oranges, two cups, A chair, [bananas]
+COCO_train2014_000000003511.jpg ### 0 ### a half-eaten slice of pizza, an empty pizza box, a dining table, a knife, a TV, two guitars
+COCO_train2014_000000003517.jpg ### 0 ### a large white bird, a sandy beach, the water
+COCO_train2014_000000003532.jpg ### 0 ### a group of people, a dirt field, A baseball bat, a baseball glove
+COCO_train2014_000000003538.jpg ### 0 ### a person, a snow-covered slope, a red jacket, [a backpack]
+COCO_train2014_000000003613.jpg ### 0 ### a vase, a variety of flowers, white daisies, a wooden table
+COCO_train2014_000000003789.jpg ### 0 ### a cozy living room, furniture, two couches, A chair, Some books, A clock, [a laptop], [A vase]
+COCO_train2014_000000003812.jpg ### 0 ### a table, three pairs of scissors, a staircase
+COCO_train2014_000000003897.jpg ### 0 ### a large giraffe, a chain-link fence, a group of people
+COCO_train2014_000000003899.jpg ### 0 ### a kitchen, a refrigerator, several donuts, a cake, the sink, The dining table, a clock, A chair
+COCO_train2014_000000003935.jpg ### 0 ### an orange and white cat, the hood of a car
+COCO_train2014_000000004159.jpg ### 0 ### a person, a kitchen, a hand mixer, a ring, a stove, A spoon, the bowl, [an oven]
+COCO_train2014_000000004172.jpg ### 0 ### a group of men, a green shirt, a sports ball
+COCO_train2014_000000004259.jpg ### 0 ### a group of men, a large sheet cake, suits, ties, a knife
+COCO_train2014_000000004260.jpg ### 0 ### a delicious pepperoni pizza, a white plate, a dining table, pepperoni, black olives, red peppers
+COCO_train2014_000000004404.jpg ### 0 ### a city street, A woman, a colorful umbrella, several cars, A bench, A handbag
+COCO_train2014_000000004428.jpg ### 0 ### a chef's outfit, a large pot, a spoon, [knives], [bowls], [several bottles]
+COCO_train2014_000000004441.jpg ### 0 ### a young man, cell phone, a black shirt
+COCO_train2014_000000004444.jpg ### 0 ### a dining car, tables, chairs, white tablecloths, [several cups]
+COCO_train2014_000000004662.jpg ### 0 ### a batter, baseball bat, The catcher, The umpire, A baseball glove, [coaches], [spectators]
+COCO_train2014_000000004704.jpg ### 0 ### a snowboarder, a red jacket
+COCO_train2014_000000004711.jpg ### 0 ### a baseball player, a bat, a blue jersey, several other people, teammates, A baseball glove
+COCO_train2014_000000004716.jpg ### 0 ### two tennis players, a tennis court, a tennis racket, [two sports balls]
+COCO_train2014_000000004719.jpg ### 0 ### a dining table, a plate of hot dogs, chips, two bottles of soda, [two cups], [A chair]
+COCO_train2014_000000004739.jpg ### 0 ### a large white cow, a crowded street, the people, a bicycle
+COCO_train2014_000000004796.jpg ### 0 ### a delicious pizza, olives, peppers, cheese, a bottle of wine
+COCO_train2014_000000004830.jpg ### 0 ### two sinks, mirrors, multiple bottles, cups, [toothbrushes]
+COCO_train2014_000000004834.jpg ### 0 ### a woman, a boat, a straw hat, a blue shirt, several cups, [a clock]
+COCO_train2014_000000004844.jpg ### 0 ### a young child, a brown vest, [a dining table], [a piece of food], [chairs], [a couple of sandwiches]
+COCO_train2014_000000004876.jpg ### 0 ### a young man, skateboard, [a bench]
+COCO_train2014_000000005021.jpg ### 0 ### two women, a pink shirt, teddy bears, a handbag
+COCO_train2014_000000005139.jpg ### 0 ### a male tennis player, a tennis racket, a white shirt, [a sports ball]
+COCO_train2014_000000005142.jpg ### 0 ### a black and white cat, an open suitcase, a blue shirt, a pair of black socks, two chairs, A book
+COCO_train2014_000000005152.jpg ### 0 ### a baseball player, bat, the ball, a baseball glove, trees
+COCO_train2014_000000005198.jpg ### 0 ### a group of people, a motorcycle, a blue helmet, a pink shirt, A bottle
+COCO_train2014_000000005288.jpg ### 0 ### a small brown and white dog, a bed, a collar, a toothbrush, person
