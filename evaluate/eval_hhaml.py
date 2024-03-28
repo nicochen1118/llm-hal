@@ -30,7 +30,7 @@ template = """ You don't have to generate explanations, you just have to give me
 Answer: The coverage is  
 """
 
-openai.api_key = "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"
+openai.api_key = ""
 proxy = "http://127.0.0.1:7890"
 
 
